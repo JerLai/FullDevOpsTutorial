@@ -24,7 +24,7 @@ namespace FullDevOpsTutorialAPI.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "Jeremy Lai";
+            return "Jafar Ginter";
         }
 
         // POST api/values
