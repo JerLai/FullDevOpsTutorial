@@ -16,7 +16,7 @@ namespace FullDevOpsTutorialAPI.Test
         [Fact]
         public void Test1()
         {
-
+            Assert.Equal("Yes", "Yes");
         }
     }
 }
