@@ -17,7 +17,7 @@ namespace FullDevOpsTutorialAPI.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "dotnet", "playbook" };
+            return new string[] { "dotnet", "playbook", "azure" };
         }
 
         // GET api/values/5
